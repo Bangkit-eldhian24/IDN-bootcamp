@@ -2,7 +2,7 @@
 
 > [!NOTE]  
 > ini adalah kumpulan writteup tugas untuk IDN-bootcamp *Pentester*
-> [xsx](https://github.com/orgs/community/discussions/16925)
+> [community](https://github.com/orgs/community/discussions/categories/announcements?discussions_q=label%3AMarkdown+category%3AAnnouncements)
 
 # Pertemuan 1
 

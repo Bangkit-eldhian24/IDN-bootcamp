@@ -1,14 +1,10 @@
----
-
 ```markdown
 # OverTheWire Bandit Wargame Writeup
 
-**Author:** [Your Name]  
+**Author:** ayanagi  
 **Date:** February 2025  
 **Platform:** OverTheWire - Bandit  
 **Difficulty:** Beginner to Intermediate
-
----
 
 ## Level 0 → Level 1
 

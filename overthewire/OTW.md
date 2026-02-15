@@ -1,4 +1,3 @@
-```markdown
 # OverTheWire Bandit Wargame Writeup
 
 **Author:** ayanagi  

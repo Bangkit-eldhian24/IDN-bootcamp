@@ -545,11 +545,3 @@ bandit22@bandit:~$ cat /tmp/8ca319486bfbbc3663ea0fbe81326349
 
 ---
 
-Writeup ini sudah diformat dengan:
-- Struktur heading yang jelas dan konsisten
-- Code blocks untuk semua command
-- Tabel ringkasan di akhir
-- Tidak ada emoji atau ikon yang tidak profesional
-- Penjelasan teknis yang singkat dan to the point
-- Format yang siap di-copy paste ke GitHub (Markdown)
-

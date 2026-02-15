@@ -20,6 +20,6 @@ Writteup Overthewire 1 - 20
 
 <details>
 <summary> Overthewire </summary>
-2. Jalankan `npm install`
+[Read](overthewire/OTW.md)
 </details>
 

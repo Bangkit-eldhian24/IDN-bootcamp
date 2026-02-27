@@ -44,6 +44,6 @@ Find Vuln at IVM
 <summary> IVM PoC </summary>
 
 [IVM](https://github.com/thebugitself/IVMarket.git)
-[PoC](/IDN)
+[PoC](20-Feb-2026/)
 
 </details>

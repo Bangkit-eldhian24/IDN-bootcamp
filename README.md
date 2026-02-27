@@ -45,5 +45,6 @@ Find Vuln at IVM
 
 [IVM](https://github.com/thebugitself/IVMarket.git)
 [PoC](20-Feb-2026/)
+[Doc](https://docs.google.com/document/d/10lZUTKLhlsQ0qmpwV82Gcz0rt6fRrHYQ/edit?usp=drive_link&ouid=117849349895867973661&rtpof=true&sd=true)
 
 </details>
